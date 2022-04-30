@@ -1,6 +1,3 @@
-# Шаблон каталога курса для студентов
+# Операционные системы
 
-## Скачать репозиторий
-
-git clone --recursive https://github.com/yamadharma/course-directory-student-template.git
-
+## Волков Денис Александрович НПИбд01-21
